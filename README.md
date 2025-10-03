@@ -53,11 +53,6 @@ The goal of this project is to showcase my ability to clean, analyze, and visual
 ## 📜 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 
-## 👩‍💻 Author
-**Sanjana jha**  
-- GitHub: [Sanjana-jha2906](https://github.com/YourUsername)  
-- Email: sjha42862@gmail.com
-
 
 
 
